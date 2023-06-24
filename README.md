@@ -19,7 +19,7 @@ This project is an IoT device that reads values from a DHT humidity and temperat
 
 ## Files
 
-- `main.ino: This is the main Arduino sketch file where the setup and loop functions are defined. It contains the logic for reading sensor data, displaying it on the OLED, and sending it to Adafruit IO.
+- `main.ino`: This is the main Arduino sketch file where the setup and loop functions are defined. It contains the logic for reading sensor data, displaying it on the OLED, and sending it to Adafruit IO.
 
 ## How to Run
 
